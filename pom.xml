@@ -17,8 +17,8 @@
 
   <modules>
     <module>domain</module>
-    <module>infra-data</module>
-    <module>infra-web</module>
+    <module>infra</module>
+    <module>application</module>
   </modules>
 
 </project>
